@@ -1,13 +1,14 @@
 # DLITHE
 Internship Project
-DLithe Internship Certification Program
+
  
 Project Topic :<Fraud Detection Dataset>
 Reference : DLithe  
 Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
-Done by: <IRAL LAVINA SALDANHA> <4NM18CS066>
+Done by: Iral Lavina Saldanha
+<4NM18CS066>
 Customer Churn Analysis using Machine learning models
 
 The main objective of the customer churn analysis is to predict that if the customer will continue with the services offered by the company or if the customer will quit.
